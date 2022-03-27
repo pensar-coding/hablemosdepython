@@ -1,0 +1,5 @@
+1 ) Conceptos principales ppt
+2 ) Ejemplo clase Perro - con params
+3 ) Herencia con Python: ejemplo clase Animal - Perro
+4 ) Caso real - Usuario
+5 ) Private methods & attributes
